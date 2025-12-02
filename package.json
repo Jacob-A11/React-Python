@@ -15,25 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ngwattcos/react-python.git"
+    "url": ""
   },
-  "author": "Scott Wang",
-  "contributors": [
-    {
-      "name": "Scott Wang",
-      "email": "curiosity142000@gmail.com",
-      "url": "https://github.com/ngwattcos"
-    },
-    {
-      "name": "Connie Lei",
-      "url": "https://github.com/connielei"
-    }
-  ],
+  "author": "",
+  "contributors": [],
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ngwattcos/react-python/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/ngwattcos/react-python#readme",
+  "homepage": "",
   "keywords": [
     "python",
     "transpiler",

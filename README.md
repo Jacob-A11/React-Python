@@ -37,7 +37,7 @@ An npm wrapper for pythonxyc, a compiler that translates Python(-like) code into
 
 ### Compiler
 pythonxyc (compiler) source code and documentation can be found at:
-https://github.com/ngwattcos/pythonxyc
+[Compiler repository]
 
 # Installation
 
@@ -65,7 +65,7 @@ Alternatively, open a running instance of a file watcher on the input directory:
 
 # pyxthonxyc Documentation
 
-Here is some documentation copied from https://github.com/ngwattcos/pythonxyc/blob/main/README.md:
+Here is some documentation copied from the compiler repository:
 
 
 ## PythonXY and Parsing Overview
